@@ -1,0 +1,1 @@
+- thumbs file must be 512 x 341 
